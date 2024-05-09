@@ -1,0 +1,31 @@
+body{
+    margin:0;
+}
+header{
+    text-align: center;
+    border: 1px solid;
+}
+nav{
+    text-align:center;
+    border: 1px solid;
+}
+main{
+    display: flex; /* permite que los elementos se acomoden, se ajusten a  su contenedor */
+}
+section{
+    width: 80%;
+    /* border-collapse: collapse; */
+}
+article{
+    border: 1px solid;
+}
+aside{
+    width: 20%;
+    text-align: center;
+    border: 1px solid;
+}
+footer{
+    text-align: center;
+    border: 1px solid;
+    border-bottom: 2px solid;
+}
